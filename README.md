@@ -10,6 +10,4 @@ Collaborative filtering for user-based recommendations
 
 Content-based filtering using movie metadata
 
-Model evaluation using precision, recall, and RMSE metrics
-
-Interactive dashboard built with Streamlit for live movie recommendations
+A Streamlit-based application that allows users to select a movie and get top recommendations, complete with poster images fetched via TMDb API. (Not deployed yet)
