@@ -10,4 +10,4 @@ Collaborative filtering for user-based recommendations
 
 Content-based filtering using movie metadata
 
-A Streamlit-based application that allows users to select a movie and get top recommendations, complete with poster images fetched via TMDb API. (Not deployed yet)
+A Streamlit-based application that allows users to select a movie and get top recommendations, complete with poster images fetched via TMDb API. Deployed on the free version of Render.
